@@ -80,3 +80,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.bot-logo {
+    width: 80px; /* Adjust size as needed */
+    height: 80px;
+    margin-bottom: 10px;
+    border-radius: 50%; /* Makes it circular */
+}
+
